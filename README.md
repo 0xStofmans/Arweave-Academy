@@ -35,7 +35,7 @@ Before participating in the event, here’s what you need to prepare:
 - Arweave block explorer -- [viewblock](https://viewblock.io/arweave)
 - AO explorer -- [aolink](https://www.ao.link/)
 
-## Registration
+## Registration Closed
 
 Developers need to complete GitHub registration by following these steps:
 
